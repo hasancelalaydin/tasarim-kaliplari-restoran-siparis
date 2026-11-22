@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.claude/
+CLAUDE.md
+*.pdf
+!docs/*.pdf
+proje_onerisi.html
